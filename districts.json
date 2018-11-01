@@ -391,7 +391,7 @@
 {"model": "figures.district", "pk": "TX-29", "fields": {"state": "Texas", "no": 29, "id": 390, "dem_nom": "Sylvia Garcia", "rep_nom": "Philip Aronoff", "bpi": 0.20419151246353875, "fundamental": 0.7041915124635387}},
 {"model": "figures.district", "pk": "TX-30", "fields": {"state": "Texas", "no": 30, "id": 391, "dem_nom": "Eddie Bernice Johnson", "rep_nom": "-", "bpi": 0.27985903323916206, "fundamental": 0.8143520709241621}},
 {"model": "figures.district", "pk": "TX-31", "fields": {"state": "Texas", "no": 31, "id": 392, "dem_nom": "M.J. Hegar", "rep_nom": "John Carter", "bpi": -0.011166225391770014, "fundamental": 0.44797420059823}},
-{"model": "figures.district", "pk": "TX-32", "fields": {"state": "Texas", "no": 32, "id": 393, "dem_nom": "Collin Allred", "rep_nom": "Pete Sessions", "bpi": -0.04814869988583207, "fundamental": 0.4109917261041679}},
+{"model": "figures.district", "pk": "TX-32", "fields": {"state": "Texas", "no": 32, "id": 393, "dem_nom": "Colin Allred", "rep_nom": "Pete Sessions", "bpi": -0.04814869988583207, "fundamental": 0.4109917261041679}},
 {"model": "figures.district", "pk": "TX-33", "fields": {"state": "Texas", "no": 33, "id": 394, "dem_nom": "Marc Veasey", "rep_nom": "Willie Billups", "bpi": 0.2144888947350069, "fundamental": 0.7489819324200069}},
 {"model": "figures.district", "pk": "TX-34", "fields": {"state": "Texas", "no": 34, "id": 395, "dem_nom": "Filemon Vela", "rep_nom": "Rey Gonzalez", "bpi": 0.09503613752224499, "fundamental": 0.6295291752072449}},
 {"model": "figures.district", "pk": "TX-35", "fields": {"state": "Texas", "no": 35, "id": 396, "dem_nom": "Lloyd Dogget", "rep_nom": "David Smalling", "bpi": 0.141867337522245, "fundamental": 0.676360375207245}},
