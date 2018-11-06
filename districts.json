@@ -415,7 +415,7 @@
 {"model": "figures.district", "pk": "WA-01", "fields": {"state": "Washington", "no": 1, "id": 414, "dem_nom": "Suzan DelBene", "rep_nom": "Jeffrey Beeler", "bpi": 0.040274588656000004, "fundamental": 0.575903916656}},
 {"model": "figures.district", "pk": "WA-02", "fields": {"state": "Washington", "no": 2, "id": 415, "dem_nom": "Rick Larsen", "rep_nom": "", "bpi": 0.100406798656, "fundamental": 0.636036126656}},
 {"model": "figures.district", "pk": "WA-03", "fields": {"state": "Washington", "no": 3, "id": 416, "dem_nom": "Carolyn Long", "rep_nom": "Jaime Herrera Beutler", "bpi": -0.055478841590645006, "fundamental": 0.400860711524355}},
-{"model": "figures.district", "pk": "WA-04", "fields": {"state": "Washington", "no": 4, "id": 417, "dem_nom": "Christine Brown", "rep_nom": "Dan Newhouse", "bpi": -0.06737685496183207, "fundamental": 0.3889626981531679}},
+{"model": "figures.district", "pk": "WA-04", "fields": {"state": "Washington", "no": 4, "id": 417, "dem_nom": "Christine Brown", "rep_nom": "Dan Newhouse", "bpi": -0.13284095490716183, "fundamental": 0.32349859820783816}},
 {"model": "figures.district", "pk": "WA-05", "fields": {"state": "Washington", "no": 5, "id": 418, "dem_nom": "Lisa Brown", "rep_nom": "Cathy McMorris Rodgers", "bpi": -0.05894441159064499, "fundamental": 0.397395141524355}},
 {"model": "figures.district", "pk": "WA-06", "fields": {"state": "Washington", "no": 6, "id": 419, "dem_nom": "Derek Kilmer", "rep_nom": "Douglas Dightman", "bpi": 0.081167798656, "fundamental": 0.616797126656}},
 {"model": "figures.district", "pk": "WA-07", "fields": {"state": "Washington", "no": 7, "id": 420, "dem_nom": "Pramila Jayapal", "rep_nom": "Craig Keller", "bpi": 0.3226733233832061, "fundamental": 0.8583026513832062}},
